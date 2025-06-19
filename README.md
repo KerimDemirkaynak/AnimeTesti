@@ -54,7 +54,7 @@ Proje herhangi bir derleme veya kurulum adımı gerektirmez.
     ```
 2.  Proje klasörüne gidin:
     ```bash
-    cd REPOADINIZ
+    cd AnimeTesti
     ```
 3.  `index.html` dosyasını favori web tarayıcınızda açın. Hepsi bu kadar!
 
